@@ -1,0 +1,14 @@
+# Site navigation links
+
+- title: Om Eva
+  url: /about/
+
+- title: Blandat
+  url: /misc/
+
+- title: Blogg
+  url: /blog/
+
+- title: Theme Setup
+  url: /theme-setup/
+
